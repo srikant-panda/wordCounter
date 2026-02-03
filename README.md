@@ -7,5 +7,5 @@ git clone https://github.com/srikant-panda/wordCounter.git
 cd wordCounter.git
 python3 -m venv .venv
 source .venv/bin/activate
-python3 manage.py
+python3 manage.py runserver
 ```
